@@ -28,7 +28,8 @@
               figure
                 img(src="@/assets/template/tema-1-3.png", alt="Texto que describa la imagen")
           tr
-            td El modelado paramétrico facilita los cambios y ajustes en la creación de un gemelo digital en cualquier punto del ciclo de vida, disminuyendo errores, tiempos y costos en el desarrollo de un producto antes de su producción en masa.
+            td 
+              p El modelado paramétrico facilita los cambios y ajustes en la creación de un gemelo digital en cualquier punto del ciclo de vida, disminuyendo errores, tiempos y costos en el desarrollo de un producto antes de su producción en masa.
             td 
               p La tecnología síncrona le permite crear rápidamente nuevos diseños conceptuales, realizar modificaciones en el modelo digital fácilmente y realizar actualizaciones simultáneas en componentes de un ensamblaje. Si se tiene que aplicar modificaciones en una pieza importada, utilizar estas herramientas agilizará y facilitará muchísimo el trabajo. 
               p.mt-3 Adaptado de #[strong Formacad (2021).]
@@ -292,14 +293,6 @@
             p El sistema de coordenadas de trabajo (WCS) es lo que utilizará para la construcción cuando desee determinar orientaciones y ángulos de características. Los ejes del WCS se denominan XC, YC y ZC. (La “C” significa “actual”). 
             p.mt-3 Es posible tener varios sistemas de coordenadas en un archivo de pieza, pero solo uno de ellos puede ser el sistema de coordenadas de trabajo.
             p.mt-3 Nota: Autores muestran coordenadas de trabajo (WCS). Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
-
-
-
-
-
-
-
-
 </template>
 
 <script>

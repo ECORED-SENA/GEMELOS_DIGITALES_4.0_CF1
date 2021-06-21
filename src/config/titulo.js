@@ -1,1 +1,2 @@
-module.exports = 'Conceptualización y metodologías epub'
+module.exports =
+  'Componente Formativo con un nombre extremadamente largo y extenso'

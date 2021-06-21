@@ -97,53 +97,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico ',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Oscar Riveros',
-        cargo: 'Experto Temático',
-        centro: 'Centro Diseño y Metrología',
-      },
-      {
-        nombre: 'José Eduardo Chaves Peña',
-        cargo: 'Experto Temático',
-        centro: 'Centro de Diseño Tecnológico Industrial',
-      },
-      {
-        nombre: 'Carlos Andrés Ossa Jiménez',
-        cargo: 'Experto Temático',
-        centro: 'Centro de Diseño Tecnológico Industrial',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Miroslava González Hernández',
-        cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Centro Gestión Industrial.',
-        regional: 'Regional Distrito Capital. ',
-      },
-      {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital.',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
   referencias: [
     {
       referencia: 'Alcrudo. J. (s.f). Formación NX CAD básico. Academia.edu. ',
@@ -317,4 +270,72 @@ export default {
       link: 'https://youtu.be/iGTENoC7ryg ',
     },
   ],
+  creditos: {
+    liderEquipo: {
+      nombre: 'Rafael Neftalí Lizcano Reyes',
+      cargo: 'Asesor pedagógico ',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander',
+    },
+    contenidoInstruccional: [
+      {
+        nombre: 'Oscar Riveros',
+        cargo: 'Experto Temático',
+        centro: 'Centro Diseño y Metrología',
+      },
+      {
+        nombre: 'José Eduardo Chaves Peña',
+        cargo: 'Experto Temático',
+        centro: 'Centro de Diseño Tecnológico Industrial',
+      },
+      {
+        nombre: 'Carlos Andrés Ossa Jiménez',
+        cargo: 'Experto Temático',
+        centro: 'Centro de Diseño Tecnológico Industrial',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro: 'Centro Gestión Industrial.',
+        regional: 'Regional Distrito Capital. ',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital.',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Brayan Stiven Pinto Diaz',
+        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional Tolima',
+      },
+    ],
+  },
+  // creditosInicio: [
+  //   {
+  //     titulo: 'En alianza',
+  //     contenido: [
+  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/mintic.jpg'),
+  //       require('@/assets/template/minsalud.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'En compañía',
+  //     contenido: [
+  //       require('@/assets/template/presidencia.jpg'),
+  //       require('@/assets/template/ecopetrol.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'Una iniciativa',
+  //     contenido: [require('@/assets/template/santander.jpg')],
+  //   },
+  // ],
 }

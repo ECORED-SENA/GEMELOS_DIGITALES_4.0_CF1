@@ -130,9 +130,6 @@
           figure
             img(src="@/assets/template/tema-3-17.png", alt="Texto que describa la imagen").w-25
           p.mt-3 Nota. Tomado de #[strong Siemens (2020)]
-
-
-
 </template>
 
 <script>
