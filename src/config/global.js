@@ -64,12 +64,12 @@ export default {
       },
     ],
     subMenu: [
-      {
+      /* {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      }, */
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -271,47 +271,130 @@ export default {
     },
   ],
   creditos: {
-    liderEquipo: {
-      nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico ',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
         nombre: 'Oscar Riveros',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'José Eduardo Chaves Peña',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Diseño Tecnológico Industrial',
+        regional: 'Regional Valle del Cauca',
       },
       {
         nombre: 'Carlos Andrés Ossa Jiménez',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Diseño Tecnológico Industrial',
+        regional: 'Regional Valle del Cauca',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
       {
-        nombre: 'Miroslava González Hernández',
-        cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Centro Gestión Industrial.',
-        regional: 'Regional Distrito Capital. ',
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable equipo',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital.',
+        nombre: 'Leyson Fabian Castaño Pérez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Luis Fernando Sarmiento Betancourth',
+        cargo: 'Diseño web',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Jose Tang',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Víctor Cárdenas',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona ',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },

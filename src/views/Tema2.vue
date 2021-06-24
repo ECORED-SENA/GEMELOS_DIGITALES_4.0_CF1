@@ -15,12 +15,14 @@
     SlyderB.mt-5(:datos="datosSlyder")
     p.mt-3
     p.mt-5
+    p.mt-3.mb-5 Las funciones creadas a partir de un boceto están asociadas a él; es decir, si el boceto cambia, también lo hacen las características. En la siguiente presentación interactiva se expondrán el entorno de un boceto, las herramientas de dibujo y edición, el comando de acotación y restricción y la simetría de curva y desfasado.
+    p.mt-3 En NX 12 se pueden crear bocetos de dos formas.
     .tabla-a.color-acento-botones.mt-5 
       table
         thead
           tr
             th Método 1 Croquis
-            th Método 2 Comando croquisz
+            th Método 2 Comando croquis
         tbody
           tr
             td.p-0 

@@ -32,7 +32,7 @@
               p El modelado paramétrico facilita los cambios y ajustes en la creación de un gemelo digital en cualquier punto del ciclo de vida, disminuyendo errores, tiempos y costos en el desarrollo de un producto antes de su producción en masa.
             td 
               p La tecnología síncrona le permite crear rápidamente nuevos diseños conceptuales, realizar modificaciones en el modelo digital fácilmente y realizar actualizaciones simultáneas en componentes de un ensamblaje. Si se tiene que aplicar modificaciones en una pieza importada, utilizar estas herramientas agilizará y facilitará muchísimo el trabajo. 
-              p.mt-3 Adaptado de #[strong Formacad (2021).]
+              p.mt-3 Nota. Se muestran las herramientas representativas en el programa NX de SIEMENS para el modelado sincrónico. Adaptado de #[strong Formacad (2021).]
     .titulo-segundo.mt-5
       #t_1_1.h4 1.1  Interfaz
     p.mt-4 A continuación se presenta elementos básicos de la interfaz del programa NX.
@@ -46,10 +46,10 @@
           tr
             td.p-0 
               figure
-                img(src="@/assets/template/tema-1-4.png", alt="Texto que describa la imagen")
+                img(src="@/assets/template/tema-1-4.svg", alt="Texto que describa la imagen")
             td.p-0  
               figure
-                img(src="@/assets/template/tema-1-5.png", alt="Texto que describa la imagen")
+                img(src="@/assets/template/tema-1-5.svg", alt="Texto que describa la imagen")
           tr
             td 
               p En cuanto se inicia NX aparecerá la ventana de interfaz de bienvenida que le permite entre otras opciones:
@@ -88,7 +88,7 @@
     p.mt-5 Las diferentes herramientas de NX se agrupan dentro de una serie de aplicaciones, las cuales se pueden abrir desde el menú «Archivo» o desde la pestaña «Aplicaciones» #[strong (Alcrudo, 2021).]
     p.mt-4 Menú archivo y pestaña aplicaciones.
     figure.mt-4
-      img(src="@/assets/template/tema-1-6.png", alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-1-6.svg", alt="Texto que describa la imagen")
     p.mt-3 Nota: Adaptado del sistema CAD NX 12. Elaboración Sena.
     .h3.mt-5 Comandos
     p.mt-4 Para que sea más fácil de usar la interfaz de usuario, se puede adaptar la barra de herramientas y los menús usando la ventana de diálogo «Personalizar». Dispone de las siguientes opciones:
@@ -121,7 +121,7 @@
                 p.mb-2 Crear sus propias fichas, grupos y galerías.
     p.mt-4 Personalización barra de herramientas
     figure.mt-4
-      img(src="@/assets/template/tema-1-7.png", alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-1-7.svg", alt="Texto que describa la imagen")
     p.mt-4 Nota: Posibles personalizaciones o adaptaciones de las barras de herramientas en NX de SIEMENS. Adaptado de “Introducción a NX”, “2019”, recuperado de curso DI -VIRTCOM Siemens”.
     .h3.mt-5 Funcionalidades del mouse
     .row.mb-5
@@ -259,7 +259,7 @@
     p.mt-3 Nota: Autores muestran barra de comandos de aplicaciones. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
     
     .titulo-segundo.mt-5
-      #t_1_2.h4 Capas
+      #t_1_2.h4 1.2 Capas
     p.mt-4 Las capas son usadas para organizar diferentes tipos de información en un archivo, proporcionan una forma permanente de organizar y administrar la visibilidad y la capacidad de selección de los objetos. NX contienen 256 capas y para acceder puede hacer clic en el menú #[strong Ajuste de capa]  (Ctrl+L). (Ming, Wenjin , Amir, & Krishna, 2019) 
     p.mt-3 Con NX puede controlar si los objetos son visibles o seleccionables, a través de atributos definidos por el sistema, tales como el color, la fuente y el ancho que deben tener todos los objetos.
     p.mt-4 Cuadro de dialogo capa
