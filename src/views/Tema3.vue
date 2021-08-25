@@ -13,8 +13,7 @@
       .col-12.col-lg-9
         p Las herramientas para crear un modelo 3D son clases de objetos que tienen un padre definido. Estas se encuentran asociadas a uno o más padres y el orden de su creación y modificación se mantiene dentro de un historial. Los padres pueden ser objetos geométricos o variables numéricas. 
         p.mt-3 Las características incluyen primitivas, superficies y/o sólidos y ciertos objetos de estructura de alambre (como curvas y curvas asociativas de corte y puente). Por ejemplo, algunas características comunes incluyen bloques, cilindros, conos, esferas, cuerpos extruidos y cuerpos giratorios. #[strong (Siemens, 2020)]
-        p.mt-1 En NX, el modelado se realiza exclusivamente en la aplicación «Modeling», tal y como se muestra en el siguiente gráfico interactivo
-        p.mt-3 En NX, el modelado se realiza exclusivamente en la aplicación «Modeling», tal y como se muestra en el siguiente gráfico interactivo
+        p.mt-1 En NX, el modelado se realiza exclusivamente en la aplicación «Modeling», tal y como se muestra en el siguiente gráfico interactivo.
       .col-3.d-none.d-lg-block
         figure.mt-4
           img(src="@/assets/template/tema-3-2.svg", alt="Texto que describa la imagen")
@@ -77,22 +76,22 @@
           img(src="@/assets/template/tema-3-15.png", alt="Texto que describa la imagen")
         p.mt-3 Nota. Tomado de #[strong Siemens (2020)]
       div(titulo="4. Espesor")
-        p.mb-3 #[strong Comando Cáscara:] Elimina material a un cuerpo sólido, creando un vaciado o espesor de pared, abriendo las caras seleccionadas.
+        p.mb-3 #[strong Comando Cáscara:] elimina material a un cuerpo sólido, creando un vaciado o espesor de pared, abriendo las caras seleccionadas.
         figure
           img(src="@/assets/template/tema-3-8.png", alt="Texto que describa la imagen")
         p.mt-3 Nota. Tomado de #[strong Siemens (2020)]
       div(titulo="5. Desmoldeo")
-        p.mb-3 #[strong Comando desmoldeo:] Crea un ángulo de salida a una cara de un cuerpo sólido, facilitando el desmoldeo de piezas plásticas o fundidas.
+        p.mb-3 #[strong Comando desmoldeo:] crea un ángulo de salida a una cara de un cuerpo sólido, facilitando el desmoldeo de piezas plásticas o fundidas.
         figure
           img(src="@/assets/template/tema-3-9.png", alt="Texto que describa la imagen")
         p.mt-3 Nota. Tomado de #[strong Siemens (2020)]
       div(titulo="6. Agujeros y roscados")
-        p.mb-3 Crea diferentes tipos de agujeros tales como: agujero simple, abocardado y avellanado seleccionando previamente el centro.z
+        p.mb-3 Crea diferentes tipos de agujeros tales como: agujero simple, abocardado y avellanado seleccionando previamente el centro.
         figure
           img(src="@/assets/template/tema-3-10.png", alt="Texto que describa la imagen").w-50
         p.mt-3 Nota. Tomado de #[strong Siemens (2020)]
       div(titulo="7. Figura de patrones")
-        p.mb-3 #[strong Patrón:] crea una matriz circular o rectangular a partir de la selección una operación. Como se muestra en la figura
+        p.mb-3 #[strong Patrón:] crea una matriz circular o rectangular a partir de la selección una operación. Como se muestra en la figura.
         figure
           img(src="@/assets/template/tema-3-11.png", alt="Texto que describa la imagen")
         p.mt-3 Nota. Tomado de #[strong Siemens (2020)]

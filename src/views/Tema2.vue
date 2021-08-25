@@ -56,10 +56,10 @@
                           i.fas.fa-angle-right.color-acento-botones.text-center
                         .col-11
                           p.mb-2 Bosquejo
-              p Nota: Autores muestran acceso al menú croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+              p Nota: Autores muestran acceso al menú croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
             td 
               p En este método puede crear sketch de la siguiente manera:
-              p.mt-3 Nota: Autores muestran el comando de croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+              p.mt-3 Nota: Autores muestran el comando de croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     p.mt-5 En cualquier caso, aparecerá un cuadro de diálogo que le pedirá que defina el plano de croquis. La pantalla mostrará las opciones de boceto. Puede elegir el plano de boceto, la dirección de boceto y el tipo de plano para bocetar.
     .h4.mt-4 Crear croquis
     .row.mt-3
@@ -87,7 +87,7 @@
     .h4.mt-5 Abrir entorno de croquis
     figure
       img(src="@/assets/template/tema-2-8.png", alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran el entorno de tarea de croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran el entorno de tarea de croquis. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .h4.mt-5 Herramientas de dibujo y edición 2D 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -100,7 +100,7 @@
     .h4.mt-4 Comandos de dibujo
     figure.mt-4
       img(src="@/assets/template/tema-2-10.png", alt="Texto que describa la imagen")
-    p.mt-4 Nota: Autores muestran comandos de dibujo. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-4 Nota: Autores muestran comandos de dibujo. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .h4.mt-5 Comando de acotación y restricciones geométricas
     p.mt-4 Los grados de libertad se pueden eliminar dando dimensiones con entidades fijas como ejes, planos, el sistema de coordenadas o cualquier geometría sólida existente creada en el modelo. 
     .h5.mt-5 Restricciones dimensionales
@@ -113,7 +113,7 @@
           img(src="@/assets/template/tema-2-11.svg", alt="Texto que describa la imagen")
     figure.mt-4
       img(src="@/assets/template/tema-2-12.png", alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran comandos de acotado. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran comandos de acotado. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .row.mt-5
       .col-lg-8.offset-2
         .cajon.color-acento-contenido.p-4.mb-4
@@ -131,12 +131,12 @@
     p.mt-3 Crea un patrón de simetría de una cadena de curvas sobre eje o línea central. 
     figure.mt-4
       img(src="@/assets/template/tema-2-14.png", alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran la aplicación del comando simetría de curva. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran la aplicación del comando simetría de curva. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .h5.mt-4 Curva desfasada
     p.mt-3 Crea un patrón de simetría de una cadena de curvas sobre eje o línea central. 
     figure.mt-4
       img(src="@/assets/template/tema-2-15.png", alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran el comando curvo desfasada. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran el comando curvo desfasada. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
 
 
 
@@ -150,19 +150,19 @@ export default {
       {
         titulo: 'Revolución',
         texto:
-          'Un boceto de NX 12 es un conjunto de curvas en cadenas creadas sobre en un plano de referencia y es empleada para crear un sólido. Estos dibujos en 2D representan los contornos geométricos de la parte. Al principio, estas curvas se dibujan en forma libre sin dimensiones exactas. Luego, a través de restricciones dimensionales y geométricas se define completamente el boceto. <br> <br> Una vez completado el boceto, hay diferentes formas de usarlos para generar piezas 3D. <br> <br> Nota: Autores muestran la operación de revolución. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.',
+          'Un boceto de NX 12 es un conjunto de curvas en cadenas creadas sobre en un plano de referencia y es empleada para crear un sólido. Estos dibujos en 2D representan los contornos geométricos de la parte. Al principio, estas curvas se dibujan en forma libre sin dimensiones exactas. Luego, a través de restricciones dimensionales y geométricas se define completamente el boceto. <br> <br> Una vez completado el boceto, hay diferentes formas de usarlos para generar piezas 3D. <br> <br> Nota: Autores muestran la operación de revolución. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.',
         imagen: require('@/assets/template/tema-2-2.svg'),
       },
       {
         titulo: 'Extrusión',
         texto:
-          'Un boceto puede ser extruido. <br> <br> Nota: Autores muestran la operación de extrusión. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.',
+          'Un boceto puede ser extruido. <br> <br> Nota: Autores muestran la operación de extrusión. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.',
         imagen: require('@/assets/template/tema-2-3.svg'),
       },
       {
         titulo: 'Barrido',
         texto:
-          'Un boceto se puede Barrido a lo largo de una curva guía. <br> <br> Nota: Autores muestran la operación de barrido. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.',
+          'Un boceto se puede Barrido a lo largo de una curva guía. <br> <br> Nota: Autores muestran la operación de barrido. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.',
         imagen: require('@/assets/template/tema-2-4.svg'),
       },
     ],

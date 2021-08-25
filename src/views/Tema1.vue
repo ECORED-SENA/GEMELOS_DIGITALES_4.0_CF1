@@ -80,7 +80,7 @@
                           i.fas.fa-angle-right.color-secundario.text-center
                         .col-11
                           p.mb-2 Crear un archivo nuevo
-              p.mt-3 Nota: Autores muestran el entorno inicial de la interface NX de SIEMENS. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.                    
+              p.mt-3 Nota: Autores muestran el entorno inicial de la interface NX de SIEMENS. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.                    
             td 
               p Cuando se trabaja en cualquiera de las aplicaciones de NX, el sistema muestra la interfaz que aparece en la siguiente figura. 
               p.mt-3 Nota: Autores muestran el entorno inicial de la interface NX de SIEMENS. Adaptado de NX 12 for Engineering Design. #[strong (Ming, Wenjin , Amir, & Krishna, 2019).]
@@ -89,7 +89,7 @@
     p.mt-4 Menú archivo y pestaña aplicaciones.
     figure.mt-4
       img(src="@/assets/template/tema-1-6.svg", alt="Texto que describa la imagen")
-    p.mt-3 Nota: Adaptado del sistema CAD NX 12. Elaboración Sena.
+    p.mt-3 Nota: Adaptado del sistema CAD NX 12. Elaboración SENA.
     .h3.mt-5 Comandos
     p.mt-4 Para que sea más fácil de usar la interfaz de usuario, se puede adaptar la barra de herramientas y los menús usando la ventana de diálogo «Personalizar». Dispone de las siguientes opciones:
     .row
@@ -143,7 +143,7 @@
                 img(src="@/assets/template/tema-1-9.png", alt="Texto que describa la imagen")
             .col-12.col-lg-8.align-self-center
               p MB3 o el botón derecho del ratón se utiliza para acceder a los menús emergentes de la interfaz de usuario.
-              p.mt-3 Nota: Autores muestran acceso rápido a menús emergentes. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+              p.mt-3 Nota: Autores muestran acceso rápido a menús emergentes. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
           .row(numero="3" titulo="Combinación de botones (Acercar / Alejar)")
             .col-6.col-lg-3.offset-3.offset-lg-0
               p Acercar / Alejar.
@@ -195,11 +195,11 @@
     .h4.mt-4 Barra de sección
     figure.mt-3
       img(src="@/assets/template/tema-1-12.png" alt="Texto que describa la imagen")
-    p.mt-4 Nota: Autores muestran barra de selección. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-4 Nota: Autores muestran barra de selección. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .row.mt-3
       .col-12.col-lg-8.align-self-center
         p Cuando se tiene excesiva geometría en una zona del modelo y es necesario seleccionar un objeto en concreto. Si al colocarse encima de múltiples objetos seleccionables y se espera dos segundos, el cursor cambiará a hacer clic derecho para abrir el listado de los objetos que se encuentran en esa área.
-        p.mt-3 Nota: Autores muestran acceso al cuadro de dialogo de sección rápida. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+        p.mt-3 Nota: Autores muestran acceso al cuadro de dialogo de sección rápida. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
       .col-6.col-lg-4.offset-3.offset-lg-0.align-self-center
         figure 
           img(src="@/assets/template/tema-1-13.png" alt="Texto que describa la imagen")
@@ -223,8 +223,8 @@
     p.mt-3 Mostrar y ocultar: esta herramienta permite visualizar objetos y ocultarlos cuando no se requieran.
     figure
       img(src="@/assets/template/tema-1-14.png" alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran acceso rápido a menús emergente de orientar vista. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
-    p.mt-3 Nota: Autores muestran comando mostrar y ocultar. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran acceso rápido a menús emergente de orientar vista. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
+    p.mt-3 Nota: Autores muestran comando mostrar y ocultar. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     .h3.mt-5 Aplicaciones
     p.mt-4 Desde este menú se puede interactuar con los diferentes módulos de NX de acuerdo con la necesidad de diseño.
     .row
@@ -256,7 +256,7 @@
                 p.mb-2 Fabricación movimiento 
     figure
       img(src="@/assets/template/tema-1-15.png" alt="Texto que describa la imagen")
-    p.mt-3 Nota: Autores muestran barra de comandos de aplicaciones. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+    p.mt-3 Nota: Autores muestran barra de comandos de aplicaciones. Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
     
     .titulo-segundo.mt-5
       #t_1_2.h4 1.2 Capas
@@ -292,7 +292,7 @@
           .col-12.col-lg-8.mt-3.mt-lg-0.align-self-center
             p El sistema de coordenadas de trabajo (WCS) es lo que utilizará para la construcción cuando desee determinar orientaciones y ángulos de características. Los ejes del WCS se denominan XC, YC y ZC. (La “C” significa “actual”). 
             p.mt-3 Es posible tener varios sistemas de coordenadas en un archivo de pieza, pero solo uno de ellos puede ser el sistema de coordenadas de trabajo.
-            p.mt-3 Nota: Autores muestran coordenadas de trabajo (WCS). Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración Sena.
+            p.mt-3 Nota: Autores muestran coordenadas de trabajo (WCS). Adaptado de “SIEMENS NX”, “2021”, “screenshot”. Elaboración SENA.
 </template>
 
 <script>
